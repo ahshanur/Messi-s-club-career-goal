@@ -1,7 +1,7 @@
 # Messi's club career goal visualization 
 A visual analysis of Messi's club career goal using Tableau
 
-Lionel Messi, an Argentine legend, has accomplished many things that very few can dream of. In his stunning careere, Messi scored his 700th goal on Feb 26, 2023. 
+Lionel Messi, an Argentine legend, has accomplished many things that very few can dream of. Messi scored his 700th goal on Feb 26, 2023. 
 
 This is a tableau dashboard that will visualize his club career goal answering this questions:
 
